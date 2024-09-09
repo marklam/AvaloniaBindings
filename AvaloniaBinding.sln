@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AvaloniaBinding.Compiled", "AvaloniaBinding.Compiled\AvaloniaBinding.Compiled.fsproj", "{FF5B2E0C-3273-45CB-9138-75C1472E4A8D}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AvaloniaBinding.NonCompiled", "AvaloniaBinding.NonCompiled\AvaloniaBinding.NonCompiled.fsproj", "{8C868B10-F6AC-42C5-98F8-C657885341C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5B2E0C-3273-45CB-9138-75C1472E4A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5B2E0C-3273-45CB-9138-75C1472E4A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5B2E0C-3273-45CB-9138-75C1472E4A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5B2E0C-3273-45CB-9138-75C1472E4A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D04FD2-ECF1-4C72-B290-CC0B6050456B}
+	EndGlobalSection
+EndGlobal
