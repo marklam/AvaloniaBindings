@@ -7,7 +7,7 @@ open Avalonia.Markup.Xaml
 type App() =
     inherit Application()
 
-    let vm = MainWindowViewModel()
+    let vm : IMainWindowViewModel = MainWindowViewModel()
 
     override this.Initialize() =
             AvaloniaXamlLoader.Load(this)
