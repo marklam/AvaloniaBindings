@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+    <AssemblyName>CSAvaloniaBinding</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
     <AvaloniaXaml Include="..\CSAvaloniaBinding\App.axaml" Link="App.axaml">
