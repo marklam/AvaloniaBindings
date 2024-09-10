@@ -7,6 +7,10 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AvaloniaBinding.Compiled", 
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AvaloniaBinding.NonCompiled", "AvaloniaBinding.NonCompiled\AvaloniaBinding.NonCompiled.fsproj", "{8C868B10-F6AC-42C5-98F8-C657885341C4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSAvaloniaBinding.Compiled", "CSAvaloniaBinding.Compiled\CSAvaloniaBinding.Compiled.csproj", "{1F55E77C-DF99-4285-9450-46CAB2023646}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSAvaloniaBinding.NonCompiled", "CSAvaloniaBinding.NonCompiled\CSAvaloniaBinding.NonCompiled.csproj", "{79F33FF8-58A9-4533-A62B-E861A54FE505}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C868B10-F6AC-42C5-98F8-C657885341C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F55E77C-DF99-4285-9450-46CAB2023646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F55E77C-DF99-4285-9450-46CAB2023646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F55E77C-DF99-4285-9450-46CAB2023646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F55E77C-DF99-4285-9450-46CAB2023646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F33FF8-58A9-4533-A62B-E861A54FE505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F33FF8-58A9-4533-A62B-E861A54FE505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F33FF8-58A9-4533-A62B-E861A54FE505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F33FF8-58A9-4533-A62B-E861A54FE505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
